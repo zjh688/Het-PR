@@ -7,7 +7,7 @@ import numpy as np
 import sys
 sys.path.append('../')
 
-from model.helpingMethods import *
+from models.helpingMethods import *
 
 
 class BaseModel:
