@@ -1,8 +1,8 @@
 __author__ = 'Haohan Wang'
 
 import numpy as np
-from model.BaseModel import BaseModel
-from model.LMM import LinearMixedModel
+from models.BaseModel import BaseModel
+from models.LMM import LinearMixedModel
 
 from sklearn.linear_model import LinearRegression, Lasso
 from sklearn.metrics import mean_squared_error as mse
