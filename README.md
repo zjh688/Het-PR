@@ -105,8 +105,5 @@ See `runHetPr.py` for a complete usage example.
 
 ## Contact
 
-Haohan Wang  
-Carnegie Mellon University  
-
-Implementation and pipeline support:  
 Jiahui Zhang
+zjh68688@gmail.com
