@@ -19,8 +19,7 @@
 
 Implementation of the Heteroscedastic Personalized Regression (Het-PR) model in the paper:
 
-**Stratifying Alzheimer’s Disease by Patient-Specific Genetic Signatures  
-Reveals Cognition-Linked and Cross-Disease Heterogeneity**  
+**Jiahui Zhang, Ziyu Yu, Xingcai Zhang, Haohan Wang. Stratifying Alzheimer’s Disease by Patient-Specific Genetic Signatures Reveals Cognition-Linked and Cross-Disease Heterogeneity.**  
 *Manuscript submitted.*
 
 ---
