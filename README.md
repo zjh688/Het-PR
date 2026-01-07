@@ -49,13 +49,13 @@ setup.py       package installation script
 Fit Het-PR on a prepared dataset:
 
 ```bash
-python runHetPr.py fit -t csv -n data/toy
+python runHetPr.py fit -t csv -n toyData
 ```
 
 or using NumPy arrays:
 
 ```bash
-python runHetPr.py fit -t npy -n data/toy
+python runHetPr.py fit -t npy -n toyData
 ```
 
 ---
