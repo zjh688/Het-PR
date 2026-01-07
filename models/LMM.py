@@ -6,7 +6,7 @@ import numpy.linalg as linalg
 import sys
 # sys.path.append('../')
 
-from model.helpingMethods import *
+from models.helpingMethods import *
 
 class LinearMixedModel:
     def __init__(self, numintervals=100, ldeltamin=-5, ldeltamax=5, scale=0, alpha=0.05, fdr=False):
