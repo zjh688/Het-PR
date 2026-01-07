@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="models/HetPr.jpg" alt="Het-PR Logo" width="420">
+  <img src="HetPr.jpg" alt="Het-PR Logo" width="420">
 </p>
 
 <h1 align="center">Het-PR: Heteroscedastic Personalized Regression</h1>
