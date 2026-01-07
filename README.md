@@ -99,7 +99,7 @@ Advanced Python users may directly import and use the Het-PR model:
 from models.personalizedModel import PersonalizedThroughMixedModel
 ```
 
-See http://xgithub.com/zjh688/Het-PR.Paper.Results.Reproduce for original codes using VS code.
+See http://xgithub.com/zjh688/Het-PR.Paper.Results.Reproduce for original codes using VS code or Jupyter Notebook.
 
 ---
 
