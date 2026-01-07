@@ -2,17 +2,6 @@
   <img src="HetPr.jpg" alt="Het-PR Logo" width="420">
 </p>
 
-<h1 align="center">Het-PR: Heteroscedastic Personalized Regression</h1>
-
-<p align="center">
-  A personalized regression framework for modeling individual-specific genetic effects<br>
-  under heteroscedastic noise using linear mixed models.
-</p>
-
-<p align="center">
-  <a href="https://github.com/zjh688/Het-PR">GitHub Repository</a>
-</p>
-
 ---
 
 # Het-PR: Heteroscedastic Personalized Regression
