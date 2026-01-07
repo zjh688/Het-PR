@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HetPr.jpg" alt="Het-PR Logo" width="420">
+  <img src="HetPr.jpg" alt="Het-PR Logo" width="800">
 </p>
 
 ---
